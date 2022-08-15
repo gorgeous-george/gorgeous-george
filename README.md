@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gorgeous-george
-- 👀 I’m interested in data analysis, sociology, human behaviour
+- 👀 I’m interested in analytics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analysis projects
+- 💞️ I’m looking to collaborate on projects aimed on data analysis, sociology, human behaviour and relationships
 - 📫 How to reach me - ilikepython.really@gmail.com
 
 <!---
